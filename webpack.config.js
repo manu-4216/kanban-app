@@ -32,7 +32,7 @@ const common = merge(
       // E.g., '/kanban-demo/'. Webpack will alter asset paths
       // based on this. You can even use an absolute path here
       // or even point to a CDN.
-      //publicPath: ''
+      //publicPath: 'https://github.com/manu-4216/kanban-app.git'
     },
     resolve: {
       extensions: ['', '.js', '.jsx']
